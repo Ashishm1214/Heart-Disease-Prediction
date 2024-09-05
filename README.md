@@ -82,10 +82,6 @@ The Logistic Regression model with tuned hyperparameters achieved the best perfo
 
 For additional details, refer to the code and visualizations provided in the repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - Scikit-learn for machine learning algorithms and utilities.
