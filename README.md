@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on developing and evaluating various machine learning models for predicting heart disease. We explore and compare the performance of Logistic Regression, K-Nearest Neighbors (KNN), and Random Forest Classifier. The project also includes hyperparameter tuning to optimize model performance and an analysis of feature importance.
+This project focuses on developing and evaluating various machine learning models for predicting heart disease. I explore and compare the performance of Logistic Regression, K-Nearest Neighbors (KNN), and Random Forest Classifier. The project also includes hyperparameter tuning to optimize model performance and an analysis of feature importance.
 
 ## Table of Contents
 
